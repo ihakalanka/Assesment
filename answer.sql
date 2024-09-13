@@ -1,0 +1,1 @@
+select stundent_name from Course where student_id=course_id;
